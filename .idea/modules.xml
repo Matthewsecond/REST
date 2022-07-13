@@ -3,10 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/REST.iml" filepath="$PROJECT_DIR$/.idea/REST.iml" />
-      <module fileurl="file://$PROJECT_DIR$/newtify-master/newtify-api/newtify-api.iml" filepath="$PROJECT_DIR$/newtify-master/newtify-api/newtify-api.iml" />
-      <module fileurl="file://$PROJECT_DIR$/newtify-master/newtify-backend/newtify-backend.iml" filepath="$PROJECT_DIR$/newtify-master/newtify-backend/newtify-backend.iml" />
-      <module fileurl="file://$PROJECT_DIR$/newtify-master/newtify-platform.iml" filepath="$PROJECT_DIR$/newtify-master/newtify-platform.iml" />
-      <module fileurl="file://$PROJECT_DIR$/newtify-master/newtify-web/newtify-web.iml" filepath="$PROJECT_DIR$/newtify-master/newtify-web/newtify-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/newtify-api/newtify-api.iml" filepath="$PROJECT_DIR$/newtify-api/newtify-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/newtify-backend/newtify-backend.iml" filepath="$PROJECT_DIR$/newtify-backend/newtify-backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/newtify-web/newtify-web.iml" filepath="$PROJECT_DIR$/newtify-web/newtify-web.iml" />
     </modules>
   </component>
 </project>
